@@ -1,0 +1,109 @@
+.banner{
+    padding: 0;
+    background-image:url("main.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 830px;
+    
+}
+.quotes h1{
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+    max-width: 55%;
+    padding-top: 300px;
+    padding-left: 35px;
+    font-family: system-ui;
+    letter-spacing: 2px;
+ 
+}
+.btn{
+    padding-left: 35px;
+}
+.btn button{
+     font-weight: 900;
+     border: 5px solid white;
+     background-color: white;
+     text-transform: uppercase;
+     padding: 4px;
+     word-spacing: -2px;
+     cursor: pointer;
+}
+.btn button:hover{
+    font-weight: 900;
+    color:white;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    padding: 4px;
+    word-spacing: -2px;
+    cursor: pointer;
+    font-weight:bolder;
+}
+
+@media (max-width:425px){
+    .banner{
+        background-image:url("phone-main.jpeg");
+        background-repeat: no-repeat;
+        background-size:cover;
+        height: 560px;
+    }
+    .quotes h1{
+        color: rgb(255, 255, 255);
+        font-size: 25px;
+        max-width: 54%;    
+        padding-top: 170px;
+        padding-left: 15px;
+        font-family: system-ui;
+        text-transform: uppercase;
+    }
+    .btn{
+        padding-left: 15px;
+    }
+}
+
+@media (max-width:768px){
+    .banner{
+         height: 600px;
+    }
+    .quotes h1{
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        max-width: 50%;
+        padding-top: 190px;
+        padding-left: 25px;
+        font-family: system-ui;
+        text-transform: uppercase;
+    }
+    .btn{
+        padding-left: 25px;
+    }
+    
+}
+@media (max-width:320px){
+    .quotes h1{
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        max-width: 70%;
+        padding-top: 180px;
+        padding-left: 25px;
+        font-family: system-ui;
+        text-transform: uppercase;
+    }
+    .btn{
+        padding-left: 25px;
+    }
+}
+@media (max-width:375px){
+    .quotes h1{
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        max-width: 70%;
+        padding-top: 180px;
+        padding-left: 25px;
+        font-family: system-ui;
+        text-transform: uppercase;
+    }
+    .btn{
+        padding-left: 25px;
+    }
+}
