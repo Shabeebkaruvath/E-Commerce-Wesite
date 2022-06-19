@@ -5,7 +5,7 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <div className="nav">
-      <h1><Link to="/" className="head-linking">pappergrid</Link></h1>
+      <h1><Link to="/" className="head-linking">papperow</Link></h1>
       <ol>
         <li>
           <Link to="/shop" className="linking">

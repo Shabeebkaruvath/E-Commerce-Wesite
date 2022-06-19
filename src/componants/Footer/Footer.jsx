@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="Footer">
       <div className="head">
-        <h3 className="footerlogo">PapperGrid</h3>
+        <h3 className="footerlogo">Papperow</h3>
         <p className="c">
           It is a long established fact that a reader will be distracted by the
           readable content of a page when looking at its layout. The point of
