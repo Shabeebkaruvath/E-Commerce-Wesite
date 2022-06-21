@@ -1,26 +1,88 @@
- .contact1{
-    padding: 100px 150px;
-    display: flex;
-    justify-content: center;
-    align-items:flex-start;
+.contact1 {
+  padding: 100px 150px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.k img {
+  padding-top: 20px;
+  margin-right: 20px;
+}
+.k {
+  padding-top: 40px;
+  font-size: 20px;
+}
+.k p {
+  width: 500px;
+}
+.p {
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+}
+@media (max-width: 1024px) {}
+      .contact1 {
+         padding: 80px 100px;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+      }
+      .k p {
+         width: 450px;
+       }
+       .p img {
+         width: 450px;
+       }
+@media (max-width: 768px) {
+   .contact1 {
+     padding: 80px 34px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+   .k p {
+     width: 350px;
+   }
+   .p img {
+     width: 350px;
+   }
+   .k {
+     font-size: 13px;
+     padding: 10px;
+   }
  }
- .k img{
-    padding-top: 20px;    
-    margin-right: 20px;
- }
- .k{
-    padding-top: 40px;
-    font-size: 20px;
- }
- .k p{
-    width: 500px;
-   
- }
- .p{
-    width: 100%;  
+ 
+@media (max-width: 425px) {
+  .contact1 {
+    padding: 70px 20px;
     display: grid;
     justify-content: center;
     align-items: center;
-    background-color: rgb(255, 255, 255);
- }
-  
+  }
+  .k {
+    font-size: 13px;
+    padding: 10px;
+  }
+  .k p {
+    width: 320px;
+  }
+  .p img {
+    width: 300px;
+  }
+}
+@media (max-width: 320px) {
+  .contact1 {
+    padding: 70px 20px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+  .k p {
+    width: 250px;
+  }
+  .p img {
+    width: 200px;
+  }
+}
