@@ -1,11 +1,12 @@
  .About{
+   background-color: beige;
     padding: 100px 200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
  }
  .About h2{
-     font-size: 60px;
+     font-size: 30px;
      font-family: sans-serif;
  }
  .About p{
@@ -21,11 +22,7 @@
     background-color: beige;
     cursor: pointer;
  }
- .o img:hover{
-    border-radius: 150px;
-   
-    cursor: pointer;
- }
+ 
  .i img{
     padding-top: 10px;
     padding-bottom: 15px;
@@ -63,7 +60,7 @@
         font-size: 12px;
      }
      .About h2{
-        font-size: 50px;
+        font-size: 22px;
         font-family: sans-serif;
     }
  }
@@ -80,7 +77,7 @@
         font-size: 12px;
      }
      .About h2{
-        font-size: 50px;
+        font-size: 20px;
         font-family: sans-serif;
     }
  }

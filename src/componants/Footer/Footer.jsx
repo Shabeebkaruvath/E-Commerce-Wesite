@@ -22,11 +22,16 @@ function Footer() {
             </Link>
           </li>
           <li>
-          <Link to="/contact" className="linking">
-            Contact
-          </Link>
-        </li>
-          <li>Pricing</li>
+            <Link to="/contact" className="linking">
+              Contact
+            </Link>
+          </li>
+          <li>
+            <Link to="/shop" className="linking">
+            Pricing
+            </Link>
+          </li>
+          <li></li>
           <li>login</li>
         </ol>
         <ol className="two">

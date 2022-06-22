@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Commerce-Wesite/static/css/main.3e442e27.css",
-    "main.js": "/E-Commerce-Wesite/static/js/main.01099a17.js",
+    "main.js": "/E-Commerce-Wesite/static/js/main.8bbc7be6.js",
     "static/media/main.jpg": "/E-Commerce-Wesite/static/media/main.b269e3e5d3d3eba31ec5.jpg",
     "static/media/main.png": "/E-Commerce-Wesite/static/media/main.52f5677419fc2e63187e.png",
     "static/media/phone-main.jpeg": "/E-Commerce-Wesite/static/media/phone-main.8b147a7e491e24dea469.jpeg",
@@ -9,10 +9,10 @@
     "static/media/character-4.gif": "/E-Commerce-Wesite/static/media/character-4.05263db0615b544f005e.gif",
     "index.html": "/E-Commerce-Wesite/index.html",
     "main.3e442e27.css.map": "/E-Commerce-Wesite/static/css/main.3e442e27.css.map",
-    "main.01099a17.js.map": "/E-Commerce-Wesite/static/js/main.01099a17.js.map"
+    "main.8bbc7be6.js.map": "/E-Commerce-Wesite/static/js/main.8bbc7be6.js.map"
   },
   "entrypoints": [
     "static/css/main.3e442e27.css",
-    "static/js/main.01099a17.js"
+    "static/js/main.8bbc7be6.js"
   ]
 }

@@ -20,17 +20,6 @@ function Lookbook() {
           sapien pellentesque habitant.
           <br />
           <p className="gap"></p>
-          Volutpat ac tincidunt vitae semper. Libero id faucibus nisl tincidunt
-          eget nullam. Hac habitasse platea dictumst vestibulum rhoncus est
-          pellentesque. Porttitor lacus luctus accumsan tortor posuere ac ut.
-          Tempor orci dapibus ultrices in iaculis. Sit amet massa vitae tortor
-          condimentum lacinia quis vel. Risus quis varius quam quisque id diam
-          vel quam. Est ante in nibh mauris cursus mattis molestie a iaculis.
-          Faucibus vitae aliquet nec ullamcorper sit amet risus nullam.
-          Facilisis sed odio morbi quis commodo odio aenean sed. Mi tempus
-          imperdiet nulla malesuada pellentesque elit eget.
-          <br />
-          <p className="gap"></p>
           Nec ullamcorper sit amet risus. Congue mauris rhoncus aenean vel elit
           scelerisque mauris. Quam quisque id diam vel. In tellus integer
           feugiat scelerisque varius morbi enim. Tellus pellentesque eu
