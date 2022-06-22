@@ -107,7 +107,7 @@ function Shop() {
             <p>this is a book descripton</p>
             <pre>
               Price:<del>$200</del>
-              <p>offer PRICE:$150</p>
+              <p>offer PRICE:$150</p> 
             </pre>
           </div>
           <div className="shop-btn">
