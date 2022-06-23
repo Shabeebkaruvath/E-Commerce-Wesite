@@ -1,5 +1,5 @@
  .About{
-   background-color: rgb(255, 255, 255);
+   background-color: rgb(247, 245, 245);
     padding: 100px 200px;
     display: flex;
     justify-content: space-between;
@@ -14,7 +14,7 @@
     max-width: 450px;
     font-size: 15px;
     font-weight: 900;
-
+ 
  }
  .o img{
     padding: 25px;
