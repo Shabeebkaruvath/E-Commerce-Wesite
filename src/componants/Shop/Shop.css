@@ -1,13 +1,12 @@
 .shop {
-     
   padding: 100px 50px;
-  background-color: beige;
+  background-color: white;
   color: black;
   height: fit-content;
   display: flex;
 }
-.filter{
-    width: 20%;
+.filter {
+  width: 20%;
 }
 .shop-img img {
   border-radius: 5px;
@@ -15,14 +14,13 @@
   height: 300px;
 }
 .shop-img img:hover {
-  
   width: 450px;
   height: 300px;
   cursor: pointer;
   transform: scale(1.01);
 }
 .shop-img {
-    width: 80%;
+  width: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,32 +37,49 @@
   color: red;
 }
 .shop-item {
-  margin:19px;
+  margin: 19px;
   display: grid;
   align-items: center;
   justify-content: space-evenly;
 }
 .shop-item button {
-    font-weight: 900;
-    padding: 7px;
-    box-sizing: border-box;
-    border-radius: 4px;
-    border: 0px;
-    color: white;
-    background-color: black;
-    margin-right: 10px;
-    border: 1px solid #f5f5dc;
- 
+  font-weight: 900;
+  padding: 7px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  border: 0px;
+  color: white;
+  background-color: black;
+  margin-right: 10px;
+  border: 1px solid #f5f5dc;
 }
-.shop-item button:hover{
-    font-weight: 900;
-    padding: 7px;
-    box-sizing: border-box;
-    border-radius: 10px;
-    border: 0px;
-    color: rgb(0, 0, 0);
-    background-color: rgb(167, 165, 165);
-    margin-right: 10px;
-    border: 1px solid #f5f5dc;
- 
+.shop-item button:hover {
+  font-weight: 900;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 0px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(167, 165, 165);
+  margin-right: 10px;
+  border: 1px solid #f5f5dc;
+}
+.shop-img .btn-cart {
+  width: 20px;
+  height: 16px;
+  justify-content: center;
+  align-items: center;
+   
+}
+.shop-img .btn-cart:hover {
+  width: 20px;
+  height: 16px;
+}
+.btn-buy{
+  padding: 1px;
+}
+.sample{
+  font-size: 17px;
+    font-family: sans-serif;
+    margin-top: 10px;
 }

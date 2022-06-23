@@ -1,11 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
+import cart from "./cart.gif";
 
 function Navbar() {
   return (
     <div className="nav">
-      <h1><Link to="/" className="head-linking">papperow</Link></h1>
+      <h1>
+        <Link to="/" className="head-linking">
+          papperow
+        </Link>
+      </h1>
       <ol>
         <li>
           <Link to="/shop" className="linking">
@@ -27,10 +32,7 @@ function Navbar() {
             Contact
           </Link>
         </li>
-        <img
-          alt="cart"
-          src="https://img.icons8.com/ios/20/undefined/shopping-cart-loaded--v1.png"
-        />
+        <img alt="cart" src={cart} />
         <img
           className="menu"
           alt="menu"
